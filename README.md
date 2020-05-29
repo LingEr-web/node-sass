@@ -10,5 +10,5 @@
 
 4.在npmrc中添加SASS_BINARY_PATH=D:/nodejs/node_modules/npm/win32-x64-72_binding.node
 
-5.执行npm install node-sass
+5.执行npm install node-sass或者配置环境变量
 
